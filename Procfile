@@ -1,1 +1,1 @@
-web:python3 api-prediction1981:app
+web:gunicorn api-prediction1981:app
