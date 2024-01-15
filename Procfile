@@ -1,1 +1,1 @@
-web:gunicorn Monapi.py:app
+web:gunicorn Monapi:app
